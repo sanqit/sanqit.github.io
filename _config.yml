@@ -29,6 +29,17 @@ url: "blog.sanqit.ru" # the base hostname & protocol for your site, e.g. http://
 twitter_username: sanqit
 github_username:  sanqit
 
+lsi: false
+safe: true
+source: https://github.com/sanqit/sanqit.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Build settings
 theme: minima
 plugins:
