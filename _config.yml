@@ -1,5 +1,5 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: IT-blog
+description: "A blog for selfdevelopment"
 author:
   name: "sanqit"
   email: "admin@sanqit.ru"
@@ -29,4 +29,3 @@ plugins:
 
 # Custom variables
 owner : "sanqit"
-year : "2020"
